@@ -20,7 +20,7 @@ This README describes what cse116/504 students will need to do to create their c
 1. From within Eclipse, select the `Window` menu, choose its `Perspective` and then `Open Perspective` submenus, and finally select the `Other` menu item.
 2. In the dialog that opens up, select the list item `Git` and then press the `OK` button.
 
-* We now follow the* [instructions starting at step 8 here](http://crunchify.com/how-to-configure-bitbucket-git-repository-in-you-eclipse/).
+*We now follow the* [instructions starting at step 8 here](http://crunchify.com/how-to-configure-bitbucket-git-repository-in-you-eclipse/).
 
 3. Either click on the `Clone Git Repository` button (shown on the above webpage) or click on the link labeled `Clone a Git Repository` (the result is the same either way).
 4. A dialog box should open. In the area labeled URI, copy the URL shown next to the box labeled `HTTPS` near the top of the page of the imported repository above.

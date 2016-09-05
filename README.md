@@ -28,30 +28,4 @@ This README describes what cse116/504 students will need to do to create their c
 8. Near the bottom of the dialog, should be an area labeled `Projects`. Make certain that the box labeled `Import all existing Eclipse projects after clone finishes` **IS SELECTED**.
 9. From within Eclipse, select the `Window` menu, choose its `Perspective` and then `Open Perspective` submenus, and finally select the `Other` menu item.
 10. In the dialog that opens up, select the list item `Java` and then press the `OK` button.
-11. You should now see a new Java project named `CourseProject`. Once everyone in your team can see this, you are ready to go.
-  the repository page that you ended up on in step 7. from the repository (replace *username* with the Bitbucket user should be something like https://*alphabetically\_first\_team\_members\_username*@bitbucket.org/teammember with y
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+11. You should now see a new Java project named `CourseProject`. Once everyone in your team can see this, your team is ready for 21st century team-based software development.
